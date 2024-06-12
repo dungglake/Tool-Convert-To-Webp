@@ -1,0 +1,58 @@
+2024-06-12 16:35:07,280:INFO:Starting monitor_folder
+2024-06-12 16:35:07,280:INFO:Created input folder: C:\%Usersname%\Downloads\input folder
+2024-06-12 16:35:07,280:INFO:Created output folder: C:\%Usersname%\Downloads\output folder
+2024-06-12 16:38:57,439:DEBUG:Importing BlpImagePlugin
+2024-06-12 16:38:57,455:DEBUG:Importing BmpImagePlugin
+2024-06-12 16:38:57,455:DEBUG:Importing BufrStubImagePlugin
+2024-06-12 16:38:57,455:DEBUG:Importing CurImagePlugin
+2024-06-12 16:38:57,455:DEBUG:Importing DcxImagePlugin
+2024-06-12 16:38:57,455:DEBUG:Importing DdsImagePlugin
+2024-06-12 16:38:57,455:DEBUG:Importing EpsImagePlugin
+2024-06-12 16:38:57,471:DEBUG:Importing FitsImagePlugin
+2024-06-12 16:38:57,471:DEBUG:Importing FliImagePlugin
+2024-06-12 16:38:57,471:DEBUG:Importing FpxImagePlugin
+2024-06-12 16:38:57,471:DEBUG:Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-06-12 16:38:57,471:DEBUG:Importing FtexImagePlugin
+2024-06-12 16:38:57,471:DEBUG:Importing GbrImagePlugin
+2024-06-12 16:38:57,471:DEBUG:Importing GifImagePlugin
+2024-06-12 16:38:57,471:DEBUG:Importing GribStubImagePlugin
+2024-06-12 16:38:57,471:DEBUG:Importing Hdf5StubImagePlugin
+2024-06-12 16:38:57,471:DEBUG:Importing IcnsImagePlugin
+2024-06-12 16:38:57,471:DEBUG:Importing IcoImagePlugin
+2024-06-12 16:38:57,471:DEBUG:Importing ImImagePlugin
+2024-06-12 16:38:57,471:DEBUG:Importing ImtImagePlugin
+2024-06-12 16:38:57,486:DEBUG:Importing IptcImagePlugin
+2024-06-12 16:38:57,486:DEBUG:Importing JpegImagePlugin
+2024-06-12 16:38:57,486:DEBUG:Importing Jpeg2KImagePlugin
+2024-06-12 16:38:57,486:DEBUG:Importing McIdasImagePlugin
+2024-06-12 16:38:57,486:DEBUG:Importing MicImagePlugin
+2024-06-12 16:38:57,486:DEBUG:Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-06-12 16:38:57,486:DEBUG:Importing MpegImagePlugin
+2024-06-12 16:38:57,486:DEBUG:Importing MpoImagePlugin
+2024-06-12 16:38:57,502:DEBUG:Importing MspImagePlugin
+2024-06-12 16:38:57,502:DEBUG:Importing PalmImagePlugin
+2024-06-12 16:38:57,502:DEBUG:Importing PcdImagePlugin
+2024-06-12 16:38:57,502:DEBUG:Importing PcxImagePlugin
+2024-06-12 16:38:57,502:DEBUG:Importing PdfImagePlugin
+2024-06-12 16:38:57,518:DEBUG:Importing PixarImagePlugin
+2024-06-12 16:38:57,518:DEBUG:Importing PngImagePlugin
+2024-06-12 16:38:57,518:DEBUG:Importing PpmImagePlugin
+2024-06-12 16:38:57,518:DEBUG:Importing PsdImagePlugin
+2024-06-12 16:38:57,518:DEBUG:Importing QoiImagePlugin
+2024-06-12 16:38:57,518:DEBUG:Importing SgiImagePlugin
+2024-06-12 16:38:57,518:DEBUG:Importing SpiderImagePlugin
+2024-06-12 16:38:57,518:DEBUG:Importing SunImagePlugin
+2024-06-12 16:38:57,518:DEBUG:Importing TgaImagePlugin
+2024-06-12 16:38:57,518:DEBUG:Importing TiffImagePlugin
+2024-06-12 16:38:57,518:DEBUG:Importing WebPImagePlugin
+2024-06-12 16:38:57,518:DEBUG:Importing WmfImagePlugin
+2024-06-12 16:38:57,518:DEBUG:Importing XbmImagePlugin
+2024-06-12 16:38:57,533:DEBUG:Importing XpmImagePlugin
+2024-06-12 16:38:57,533:DEBUG:Importing XVThumbImagePlugin
+2024-06-12 16:38:57,565:INFO:Converted C:\%Usersname%\Downloads\input folder\t\u1ea3i xu\u1ed1ng.jpg to C:\%Usersname%\Downloads\output folder\t\u1ea3i xu\u1ed1ng.webp
+2024-06-12 16:39:22,980:INFO:Starting monitor_folder
+2024-06-12 16:39:22,980:INFO:Created input folder: C:\%Usersname%\Downloads\input folder
+2024-06-12 16:39:22,980:INFO:Created output folder: C:\%Usersname%\Downloads\output folder
+2024-06-12 16:43:43,484:INFO:Starting monitor_folder
+2024-06-12 16:44:32,220:INFO:Starting monitor_folder
+2024-06-12 16:44:47,756:INFO:Starting monitor_folder

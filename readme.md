@@ -1,51 +1,70 @@
-# Tool Convert Webp
+# Auto Convert to WebP Service
 
-## Introduction
+This tool automatically converts images in a specified input folder to WebP format and saves them in an output folder. It is designed to run as a Windows service that starts automatically when the computer is rebooted.
 
-This tool automatically converts images in the "input" folder to WebP format and saves them in the "output" folder. The tool runs as a background service and will automatically restart when the computer is restarted.
+## Prerequisites
 
-## System Requirements
+- Windows Operating System
+- Administrator privileges to install the service
 
-- Windows operating system
+## Installation Guide
 
-## Installation Instructions
+### Step 1: Download and Extract the Tool
 
-1. **Download and Extract the Tool:**
-   - Download the `Tool Convert Webp.zip` file and extract it to a location on your computer.
+1. Download the tool package and extract it to a folder, e.g., `C:\Users\YourUsername\Downloads\Tool Convert WebP`.
 
-2. **Run the Setup Script:**
-   - Navigate to the extracted folder.
-   - Right-click on `setup_service.bat` and select "Run as administrator" to install and configure the service.
+### Step 2: Run the Setup Script
 
-3. **Ensure the Service is Running:**
-   - Open `Run` (Win + R), type `services.msc`, and press Enter.
-   - In the Services window, find `ConvertToWebPService` and ensure it is running and set to start automatically.
+1. Navigate to the folder where you extracted the tool.
+2. Double-click on `setup_service.bat` to run the setup script.
+3. The script will:
+    - Download and install NSSM (Non-Sucking Service Manager) if it's not already installed.
+    - Install and configure the service to start automatically on system boot.
 
-## Usage
+### Step 3: Verify the Service Installation
 
-1. **Adding Images:**
-   - Add images to the `input` folder.
-   - The tool will automatically convert new images to WebP format and save them in the `output` folder.
+1. After running the `setup_service.bat` script, the service should be installed and started automatically.
+2. You can verify the service by checking the Windows Services Manager:
+    - Press `Win + R`, type `services.msc`, and press `Enter`.
+    - Look for a service named `ConvertToWebPService`.
 
-2. **Service Management:**
-   - To manually start or stop the service, you can use the following commands in an elevated Command Prompt:
-     ```sh
-     nssm start ConvertToWebPService
-     nssm stop ConvertToWebPService
-     ```
-   - Alternatively, you can manage the service from the Services window (`services.msc`).
+## Usage Guide
+- You do not need to create these folders manually. The tool will create them automatically if they do not exist.
+### Adding Images
 
-## Notes
+1. Place your images (PNG, JPG, JPEG, BMP, TIFF) into the input folder.
+2. The tool will automatically convert these images to WebP format and save them in the output folder.
 
-- Ensure that PowerShell is installed on your system.
-- If you need to reinstall or update the service, you can run the `setup_service.bat` script again.
+## Uninstallation Guide
+
+### Step 1: Remove the Service
+
+1. Open a command prompt as administrator.
+2. Navigate to the folder where the tool is installed.
+3. Run the following command to stop and remove the service:
+    ```batch
+    nssm\nssm.exe stop ConvertToWebPService
+    nssm\nssm.exe remove ConvertToWebPService confirm
+    ```
+
+### Step 2: Clean Up
+
+1. Delete the tool folder and its contents.
 
 ## Troubleshooting
 
-- If the service is not running, check the event logs for any errors related to `ConvertToWebPService`.
-- Make sure that `nssm.exe` and `convert_to_webp.exe` are in the correct directories as specified in the setup script.
+### Service Not Starting
+
+- Ensure you have administrator privileges.
+- Check the service logs for errors.
+- Verify that required packages are installed correctly.
+
+### Images Not Converting
+
+- Ensure that images are placed in the correct input folder.
+- Check the output folder for converted images.
+- Verify the service is running in the Windows Services Manager.
 
 ## Contact
 
-For further assistance, please contact [your support contact information].
-
+For any issues or support, please contact [hoangdung0904@gmail.com].

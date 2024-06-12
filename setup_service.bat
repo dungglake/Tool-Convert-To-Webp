@@ -1,37 +1,75 @@
 @echo off
-SET EXE_PATH=%~dp0dist\auto_convert.exe
-SET NSSM_PATH=%~dp0nssm\nssm.exe
-
-REM Check if NSSM is installed and download if not
-IF NOT EXIST "%NSSM_PATH%" (
-    echo NSSM is not installed. Downloading NSSM...
-    powershell -Command "Invoke-WebRequest -Uri https://nssm.cc/release/nssm-2.24.zip -OutFile nssm.zip"
-    powershell -Command "Expand-Archive -Path nssm.zip -DestinationPath ."
-    move nssm-2.24\win64\nssm.exe nssm\nssm.exe
-    rmdir /S /Q nssm-2.24
-    del nssm.zip
-)
-
-REM Check for admin privileges
+:: Check and elevate to administrator privileges
 NET SESSION >nul 2>&1
 IF %ERRORLEVEL% NEQ 0 (
-    echo Please run this script with administrator privileges.
+    powershell -Command "Start-Process '%~f0' -Verb runAs"
+    exit /b
+)
+
+SET "EXE_PATH=%~dp0dist\auto_convert.exe"
+SET "NSSM_DIR=%~dp0nssm"
+SET "NSSM_PATH=%NSSM_DIR%\nssm.exe"
+
+:: Create the NSSM directory if it does not exist
+IF NOT EXIST "%NSSM_DIR%" (
+    mkdir "%NSSM_DIR%"
+)
+
+:: Check if NSSM is installed and download if not
+IF NOT EXIST "%NSSM_PATH%" (
+    echo NSSM is not installed. Downloading NSSM...
+    powershell -Command "Invoke-WebRequest -Uri https://nssm.cc/release/nssm-2.24.zip -OutFile '%NSSM_DIR%\nssm.zip'"
+    IF EXIST "%NSSM_DIR%\nssm.zip" (
+        powershell -Command "Expand-Archive -Path '%NSSM_DIR%\nssm.zip' -DestinationPath '%NSSM_DIR%'"
+        IF EXIST "%NSSM_DIR%\nssm-2.24\win64\nssm.exe" (
+            move "%NSSM_DIR%\nssm-2.24\win64\nssm.exe" "%NSSM_PATH%"
+            rmdir /S /Q "%NSSM_DIR%\nssm-2.24"
+        ) ELSE (
+            echo Failed to find nssm.exe in the extracted directory.
+            pause
+            exit /b
+        )
+        del "%NSSM_DIR%\nssm.zip"
+    ) ELSE (
+        echo Failed to download NSSM.
+        pause
+        exit /b
+    )
+)
+
+:: Remove existing service if it exists
+echo Removing existing service if it exists...
+"%NSSM_PATH%" stop ConvertToWebPService
+"%NSSM_PATH%" remove ConvertToWebPService confirm
+IF %ERRORLEVEL% NEQ 0 (
+    echo Service does not exist or failed to remove the existing service.
+)
+
+:: Install the new service
+echo Installing ConvertToWebPService...
+"%NSSM_PATH%" install ConvertToWebPService "%EXE_PATH%"
+IF %ERRORLEVEL% NEQ 0 (
+    echo Failed to install the service.
     pause
     exit /b
 )
 
-REM Remove existing service if it exists
-echo Removing existing service if it exists...
-"%NSSM_PATH%" remove ConvertToWebPService confirm
-
-REM Install the new service
-echo Installing ConvertToWebPService...
-"%NSSM_PATH%" install ConvertToWebPService "%EXE_PATH%"
+:: Set service to auto start
 "%NSSM_PATH%" set ConvertToWebPService Start SERVICE_AUTO_START
+IF %ERRORLEVEL% NEQ 0 (
+    echo Failed to set service to auto start.
+    pause
+    exit /b
+)
 
-REM Start the service
+:: Start the service
 echo Starting ConvertToWebPService...
 "%NSSM_PATH%" start ConvertToWebPService
+IF %ERRORLEVEL% NEQ 0 (
+    echo Failed to start the service.
+    pause
+    exit /b
+)
 
 echo Service ConvertToWebPService installed and started successfully.
 pause

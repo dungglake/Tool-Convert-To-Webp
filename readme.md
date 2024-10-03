@@ -28,6 +28,7 @@ This project monitors a folder for new images and converts them to WebP format.
     `chmod +x setup_and_run.sh`
    `./setup_and_run.sh`
 4. The script will stop if the action is done and when you close the terminal.
+**If there is an error about the virtual environment, delete all virtual environments by command "rm -rf" and run the script again**
 
 **Note**: If you want to services runs automatically when you turn off terminal or reboot the computer:
     -Open the crontab to edit: run `crontab -e`

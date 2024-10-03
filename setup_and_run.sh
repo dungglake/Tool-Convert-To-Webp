@@ -10,7 +10,7 @@ VENV_DIR="$(dirname "$(readlink -f "$0")")/venv"
 mkdir -p "$INPUT_FOLDER"
 mkdir -p "$OUTPUT_FOLDER"
 
-# Hàm kiểm tra và cài đặt Python
+# Hàm kiểm tra và cài đặt Python nếu chưa có
 install_python() {
     if ! command -v python3 &> /dev/null; then
         echo "Python3 not found. Installing Python3..."
@@ -39,17 +39,20 @@ fi
 # Kích hoạt virtual environment
 source "$VENV_DIR/bin/activate"
 
-# Cài đặt các gói Python cần thiết
-echo "Đang kiểm tra và cài đặt các thư viện cần thiết..."
-pip install --upgrade pip
-pip install Pillow watchdog
+# Kiểm tra môi trường ảo đã kích hoạt thành công chưa
+echo "Đang sử dụng Python tại: $(which python3)"
 
-# Chạy script Python
+# Đảm bảo pip trong môi trường ảo được sử dụng để cài đặt thư viện
+"$VENV_DIR/bin/pip" install --upgrade pip
+"$VENV_DIR/bin/pip" install Pillow watchdog
+
+# Chạy script Python từ môi trường ảo
 echo "Đang chạy script Python..."
-python "$SCRIPT_PATH" "$INPUT_FOLDER" "$OUTPUT_FOLDER"
+"$VENV_DIR/bin/python3" "$SCRIPT_PATH" "$INPUT_FOLDER" "$OUTPUT_FOLDER"
 
 # Script sẽ dừng hẳn sau khi thực hiện xong hành động
 echo "Script đã hoàn thành và dừng lại."
 
 # Hủy kích hoạt virtual environment
 deactivate
+

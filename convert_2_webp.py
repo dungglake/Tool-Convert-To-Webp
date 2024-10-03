@@ -71,10 +71,18 @@ def main(input_folder, output_folder):
         observer.stop()
     observer.join()
 
+def convert_existing_files(input_folder, output_folder):
+    for filename in os.listdir(input_folder):
+        file_path = os.path.join(input_folder, filename)
+        if os.path.isfile(file_path) and ImageConversionHandler.is_image_file(None, file_path):
+            ImageConversionHandler(input_folder, output_folder).convert_to_webp(file_path)
+
 if __name__ == "__main__":
     if len(sys.argv) != 3:
         print("Usage: python convert_2_webp.py <input_folder> <output_folder>")
     else:
         input_folder = sys.argv[1]
         output_folder = sys.argv[2]
+        convert_existing_files(input_folder, output_folder)  # Thêm dòng này
         main(input_folder, output_folder)
+

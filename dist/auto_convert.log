@@ -1,0 +1,646 @@
+2024-08-11 17:22:37,047:DEBUG:Importing BlpImagePlugin
+2024-08-11 17:22:37,049:DEBUG:Importing BmpImagePlugin
+2024-08-11 17:22:37,049:DEBUG:Importing BufrStubImagePlugin
+2024-08-11 17:22:37,050:DEBUG:Importing CurImagePlugin
+2024-08-11 17:22:37,051:DEBUG:Importing DcxImagePlugin
+2024-08-11 17:22:37,052:DEBUG:Importing DdsImagePlugin
+2024-08-11 17:22:37,062:DEBUG:Importing EpsImagePlugin
+2024-08-11 17:22:37,064:DEBUG:Importing FitsImagePlugin
+2024-08-11 17:22:37,068:DEBUG:Importing FliImagePlugin
+2024-08-11 17:22:37,069:DEBUG:Importing FpxImagePlugin
+2024-08-11 17:22:37,070:DEBUG:Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-08-11 17:22:37,070:DEBUG:Importing FtexImagePlugin
+2024-08-11 17:22:37,071:DEBUG:Importing GbrImagePlugin
+2024-08-11 17:22:37,072:DEBUG:Importing GifImagePlugin
+2024-08-11 17:22:37,072:DEBUG:Importing GribStubImagePlugin
+2024-08-11 17:22:37,073:DEBUG:Importing Hdf5StubImagePlugin
+2024-08-11 17:22:37,073:DEBUG:Importing IcnsImagePlugin
+2024-08-11 17:22:37,076:DEBUG:Importing IcoImagePlugin
+2024-08-11 17:22:37,077:DEBUG:Importing ImImagePlugin
+2024-08-11 17:22:37,078:DEBUG:Importing ImtImagePlugin
+2024-08-11 17:22:37,080:DEBUG:Importing IptcImagePlugin
+2024-08-11 17:22:37,080:DEBUG:Importing JpegImagePlugin
+2024-08-11 17:22:37,081:DEBUG:Importing Jpeg2KImagePlugin
+2024-08-11 17:22:37,081:DEBUG:Importing McIdasImagePlugin
+2024-08-11 17:22:37,081:DEBUG:Importing MicImagePlugin
+2024-08-11 17:22:37,083:DEBUG:Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-08-11 17:22:37,083:DEBUG:Importing MpegImagePlugin
+2024-08-11 17:22:37,083:DEBUG:Importing MpoImagePlugin
+2024-08-11 17:22:37,097:DEBUG:Importing MspImagePlugin
+2024-08-11 17:22:37,098:DEBUG:Importing PalmImagePlugin
+2024-08-11 17:22:37,100:DEBUG:Importing PcdImagePlugin
+2024-08-11 17:22:37,100:DEBUG:Importing PcxImagePlugin
+2024-08-11 17:22:37,100:DEBUG:Importing PdfImagePlugin
+2024-08-11 17:22:37,111:DEBUG:Importing PixarImagePlugin
+2024-08-11 17:22:37,112:DEBUG:Importing PngImagePlugin
+2024-08-11 17:22:37,113:DEBUG:Importing PpmImagePlugin
+2024-08-11 17:22:37,113:DEBUG:Importing PsdImagePlugin
+2024-08-11 17:22:37,116:DEBUG:Importing QoiImagePlugin
+2024-08-11 17:22:37,116:DEBUG:Importing SgiImagePlugin
+2024-08-11 17:22:37,118:DEBUG:Importing SpiderImagePlugin
+2024-08-11 17:22:37,119:DEBUG:Importing SunImagePlugin
+2024-08-11 17:22:37,120:DEBUG:Importing TgaImagePlugin
+2024-08-11 17:22:37,121:DEBUG:Importing TiffImagePlugin
+2024-08-11 17:22:37,121:DEBUG:Importing WebPImagePlugin
+2024-08-11 17:22:37,126:DEBUG:Importing WmfImagePlugin
+2024-08-11 17:22:37,127:DEBUG:Importing XbmImagePlugin
+2024-08-11 17:22:37,130:DEBUG:Importing XpmImagePlugin
+2024-08-11 17:22:37,132:DEBUG:Importing XVThumbImagePlugin
+2024-08-11 17:22:37,169:INFO:Converted: C:\Users\Admin\Downloads\input folder\hình \u1ea3nh này th\u1eadt \u0111\u1eb9p.jpg -> C:\Users\Admin\Downloads\output folder\hình \u1ea3nh này th\u1eadt \u0111\u1eb9p.webp
+2024-08-11 17:22:37,170:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\hình \u1ea3nh này th\u1eadt \u0111\u1eb9p.webp
+2024-08-11 17:22:37,301:INFO:Converted: C:\Users\Admin\Downloads\input folder\tr\u01b0\u1eddng-\u0111\u1ea1i-h\u1ecdc@.jpg -> C:\Users\Admin\Downloads\output folder\tr\u01b0\u1eddng-\u0111\u1ea1i-h\u1ecdc@.webp
+2024-08-11 17:22:37,302:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\tr\u01b0\u1eddng-\u0111\u1ea1i-h\u1ecdc@.webp
+2024-08-11 17:22:37,302:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\hình \u1ea3nh này th\u1eadt \u0111\u1eb9p.webp
+2024-08-11 17:23:51,332:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\hình \u1ea3nh này th\u1eadt \u0111\u1eb9p.webp
+2024-08-11 17:23:51,333:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\tr\u01b0\u1eddng-\u0111\u1ea1i-h\u1ecdc@.webp
+2024-11-25 14:41:28,771:ERROR:Error converting C:\Users\Admin\Downloads\input folder\câ\u0323p nhâ\u0323t môi tr\u01b0\u01a1\u0300ng hê\u0323 thô\u0301ng.png: [Errno 13] Permission denied: 'C:\\Users\\Admin\\Downloads\\input folder\\câ\u0323p nhâ\u0323t môi tr\u01b0\u01a1\u0300ng hê\u0323 thô\u0301ng.png'
+2024-11-25 14:41:28,818:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 14:41:28,818:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 14:41:28,818:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 14:41:28,818:DEBUG:Importing BlpImagePlugin
+2024-11-25 14:41:28,818:DEBUG:Importing BmpImagePlugin
+2024-11-25 14:41:28,818:DEBUG:Importing BufrStubImagePlugin
+2024-11-25 14:41:28,818:DEBUG:Importing CurImagePlugin
+2024-11-25 14:41:28,818:DEBUG:Importing DcxImagePlugin
+2024-11-25 14:41:28,818:DEBUG:Importing DdsImagePlugin
+2024-11-25 14:41:28,833:DEBUG:Importing EpsImagePlugin
+2024-11-25 14:41:28,833:DEBUG:Importing FitsImagePlugin
+2024-11-25 14:41:28,833:DEBUG:Importing FliImagePlugin
+2024-11-25 14:41:28,833:DEBUG:Importing FpxImagePlugin
+2024-11-25 14:41:28,833:DEBUG:Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-11-25 14:41:28,833:DEBUG:Importing FtexImagePlugin
+2024-11-25 14:41:28,833:DEBUG:Importing GbrImagePlugin
+2024-11-25 14:41:28,833:DEBUG:Importing GifImagePlugin
+2024-11-25 14:41:28,833:DEBUG:Importing GribStubImagePlugin
+2024-11-25 14:41:28,849:DEBUG:Importing Hdf5StubImagePlugin
+2024-11-25 14:41:28,849:DEBUG:Importing IcnsImagePlugin
+2024-11-25 14:41:28,849:DEBUG:Importing IcoImagePlugin
+2024-11-25 14:41:28,849:DEBUG:Importing ImImagePlugin
+2024-11-25 14:41:28,849:DEBUG:Importing ImtImagePlugin
+2024-11-25 14:41:28,849:DEBUG:Importing IptcImagePlugin
+2024-11-25 14:41:28,849:DEBUG:Importing JpegImagePlugin
+2024-11-25 14:41:28,849:DEBUG:Importing Jpeg2KImagePlugin
+2024-11-25 14:41:28,849:DEBUG:Importing McIdasImagePlugin
+2024-11-25 14:41:28,849:DEBUG:Importing MicImagePlugin
+2024-11-25 14:41:28,849:DEBUG:Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-11-25 14:41:28,849:DEBUG:Importing MpegImagePlugin
+2024-11-25 14:41:28,849:DEBUG:Importing MpoImagePlugin
+2024-11-25 14:41:28,865:DEBUG:Importing MspImagePlugin
+2024-11-25 14:41:28,865:DEBUG:Importing PalmImagePlugin
+2024-11-25 14:41:28,865:DEBUG:Importing PcdImagePlugin
+2024-11-25 14:41:28,865:DEBUG:Importing PcxImagePlugin
+2024-11-25 14:41:28,865:DEBUG:Importing PdfImagePlugin
+2024-11-25 14:41:28,880:DEBUG:Importing PixarImagePlugin
+2024-11-25 14:41:28,880:DEBUG:Importing PngImagePlugin
+2024-11-25 14:41:28,880:DEBUG:Importing PpmImagePlugin
+2024-11-25 14:41:28,880:DEBUG:Importing PsdImagePlugin
+2024-11-25 14:41:28,880:DEBUG:Importing QoiImagePlugin
+2024-11-25 14:41:28,880:DEBUG:Importing SgiImagePlugin
+2024-11-25 14:41:28,880:DEBUG:Importing SpiderImagePlugin
+2024-11-25 14:41:28,880:DEBUG:Importing SunImagePlugin
+2024-11-25 14:41:28,880:DEBUG:Importing TgaImagePlugin
+2024-11-25 14:41:28,880:DEBUG:Importing TiffImagePlugin
+2024-11-25 14:41:28,880:DEBUG:Importing WebPImagePlugin
+2024-11-25 14:41:28,880:DEBUG:Importing WmfImagePlugin
+2024-11-25 14:41:28,896:DEBUG:Importing XbmImagePlugin
+2024-11-25 14:41:28,896:DEBUG:Importing XpmImagePlugin
+2024-11-25 14:41:28,896:DEBUG:Importing XVThumbImagePlugin
+2024-11-25 14:41:28,943:INFO:Converted: C:\Users\Admin\Downloads\input folder\câ\u0323p nhâ\u0323t môi tr\u01b0\u01a1\u0300ng hê\u0323 thô\u0301ng.png -> C:\Users\Admin\Downloads\output folder\câ\u0323p nhâ\u0323t môi tr\u01b0\u01a1\u0300ng hê\u0323 thô\u0301ng.webp
+2024-11-25 14:41:28,959:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 14:41:28,959:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 14:41:28,959:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 14:41:28,990:INFO:Converted: C:\Users\Admin\Downloads\input folder\hi\u0300nh 1.png -> C:\Users\Admin\Downloads\output folder\hi\u0300nh 1.webp
+2024-11-25 14:41:28,990:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\hi\u0300nh 1.webp
+2024-11-25 14:41:29,006:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 14:41:29,006:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 14:41:29,006:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 14:41:29,256:INFO:Converted: C:\Users\Admin\Downloads\input folder\thêm lê\u0323nh va\u0300o bashrc.png -> C:\Users\Admin\Downloads\output folder\thêm lê\u0323nh va\u0300o bashrc.webp
+2024-11-25 14:41:29,271:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\thêm lê\u0323nh va\u0300o bashrc.webp
+2024-11-25 14:41:29,271:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 14:41:29,271:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 14:41:29,271:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 14:41:29,459:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301  du\u0323 6.png -> C:\Users\Admin\Downloads\output folder\vi\u0301  du\u0323 6.webp
+2024-11-25 14:41:29,459:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301  du\u0323 6.webp
+2024-11-25 14:41:29,474:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 14:41:29,474:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 14:41:29,474:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 14:41:29,636:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 1.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 1.webp
+2024-11-25 14:41:29,636:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 1.webp
+2024-11-25 14:41:29,647:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 14:41:29,647:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 14:41:29,647:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 14:41:29,834:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 2.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 2.webp
+2024-11-25 14:41:29,834:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 2.webp
+2024-11-25 14:41:29,834:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 14:41:29,834:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 14:41:29,834:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 14:41:30,069:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 3.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 3.webp
+2024-11-25 14:41:30,069:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 3.webp
+2024-11-25 14:41:30,085:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 14:41:30,085:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 14:41:30,085:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 14:41:30,257:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 4.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 4.webp
+2024-11-25 14:41:30,257:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 4.webp
+2024-11-25 14:41:30,272:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 14:41:30,272:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 14:41:30,272:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 14:41:30,507:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 5.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 5.webp
+2024-11-25 14:41:30,507:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 5.webp
+2024-11-25 14:41:30,507:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 14:41:30,507:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 14:41:30,507:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 14:41:30,710:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 7 sort nhiê\u0300u file.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 7 sort nhiê\u0300u file.webp
+2024-11-25 14:41:30,710:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 7 sort nhiê\u0300u file.webp
+2024-11-25 14:41:30,741:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 14:41:30,741:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 14:41:30,741:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 14:41:31,007:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 8.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 8.webp
+2024-11-25 14:41:31,007:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 8.webp
+2024-11-25 14:41:31,007:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 14:41:31,023:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 14:41:31,023:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 14:41:31,195:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 9.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 9.webp
+2024-11-25 14:41:31,195:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 9.webp
+2024-11-25 14:41:31,195:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 14:41:31,195:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 14:41:31,195:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 14:41:31,429:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 10.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 10.webp
+2024-11-25 14:41:31,430:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 10.webp
+2024-11-25 14:41:31,430:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 14:41:31,430:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 14:41:31,430:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 14:41:31,570:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 11.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 11.webp
+2024-11-25 14:41:31,570:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 11.webp
+2024-11-25 14:41:31,586:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 14:41:31,586:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 14:41:31,586:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 14:41:31,695:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 12.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 12.webp
+2024-11-25 14:41:31,695:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 12.webp
+2024-11-25 14:41:31,711:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 14:41:31,711:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 14:41:31,711:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 14:41:31,805:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 13.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 13.webp
+2024-11-25 14:41:31,805:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 13.webp
+2024-11-25 14:41:31,805:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 14:41:31,805:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 14:41:31,805:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 14:41:32,118:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 14.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 14.webp
+2024-11-25 14:41:32,118:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 14.webp
+2024-11-25 14:41:32,133:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 14:41:32,133:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 14:41:32,133:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 14:41:32,274:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 15.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 15.webp
+2024-11-25 14:41:32,274:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 15.webp
+2024-11-25 14:41:32,290:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 14:41:32,290:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 14:41:32,290:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 14:41:32,383:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 16.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 16.webp
+2024-11-25 14:41:32,383:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 16.webp
+2024-11-25 15:08:40,734:ERROR:Error converting C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 6a.png: [Errno 13] Permission denied: 'C:\\Users\\Admin\\Downloads\\input folder\\vi\u0301 du\u0323 6a.png'
+2024-11-25 15:08:40,766:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 15:08:40,766:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 15:08:40,766:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 15:08:41,276:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 6a.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 6a.webp
+2024-11-25 15:08:41,285:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 15:08:41,285:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 15:08:41,285:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 15:08:41,557:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 7.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 7.webp
+2024-11-25 15:08:41,557:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 7.webp
+2024-11-25 15:08:41,570:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 15:08:41,570:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 15:08:41,570:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 15:08:42,205:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 6b.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 6b.webp
+2024-11-25 15:08:42,205:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 6b.webp
+2024-11-25 15:08:44,678:ERROR:Error converting C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 1.png: [Errno 13] Permission denied: 'C:\\Users\\Admin\\Downloads\\input folder\\vi\u0301 du\u0323 1.png'
+2024-11-25 15:08:44,680:ERROR:Error converting C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 1.png: [Errno 13] Permission denied: 'C:\\Users\\Admin\\Downloads\\input folder\\vi\u0301 du\u0323 1.png'
+2024-11-25 15:08:44,698:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 15:08:44,698:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 15:08:44,698:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 15:08:45,025:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 1.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 1.webp
+2024-11-25 15:08:45,034:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 15:08:45,040:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 15:08:45,040:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 15:08:45,425:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 4.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 4.webp
+2024-11-25 15:08:45,439:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 15:08:45,439:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 15:08:45,439:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 15:08:46,119:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 5.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 5.webp
+2024-11-25 15:08:46,133:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 15:08:46,133:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 15:08:46,134:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 15:08:46,298:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 10.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 10.webp
+2024-11-25 15:08:46,314:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 15:08:46,314:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 15:08:46,314:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 15:08:46,537:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 2.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 2.webp
+2024-11-25 15:08:46,555:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 15:08:46,555:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 15:08:46,556:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 15:08:46,924:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 3.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 3.webp
+2024-11-25 15:08:46,944:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 15:08:46,944:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 15:08:46,944:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 15:08:47,762:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 8.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 8.webp
+2024-11-25 15:08:47,776:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 15:08:47,776:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 15:08:47,776:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 15:08:48,629:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 9.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 9.webp
+2024-11-25 15:46:11,731:ERROR:Error converting C:\Users\Admin\Downloads\input folder\ca\u0300i lê\u0323nh make-guile.png: [Errno 13] Permission denied: 'C:\\Users\\Admin\\Downloads\\input folder\\ca\u0300i lê\u0323nh make-guile.png'
+2024-11-25 15:46:11,751:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 15:46:11,752:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 15:46:11,752:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 15:46:12,131:INFO:Converted: C:\Users\Admin\Downloads\input folder\ca\u0300i lê\u0323nh make-guile.png -> C:\Users\Admin\Downloads\output folder\ca\u0300i lê\u0323nh make-guile.webp
+2024-11-25 15:46:12,143:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 15:46:12,143:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 15:46:12,143:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 15:46:12,360:INFO:Converted: C:\Users\Admin\Downloads\input folder\kiê\u0309m tra lê\u0323nh.png -> C:\Users\Admin\Downloads\output folder\kiê\u0309m tra lê\u0323nh.webp
+2024-11-25 15:46:12,362:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\kiê\u0309m tra lê\u0323nh.webp
+2024-11-25 15:46:12,373:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 15:46:12,373:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 15:46:12,373:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 15:46:12,609:INFO:Converted: C:\Users\Admin\Downloads\input folder\nô\u0323i dung file C.png -> C:\Users\Admin\Downloads\output folder\nô\u0323i dung file C.webp
+2024-11-25 15:46:12,612:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\nô\u0323i dung file C.webp
+2024-11-25 15:46:12,630:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 15:46:12,630:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 15:46:12,630:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 15:46:12,691:INFO:Converted: C:\Users\Admin\Downloads\input folder\nô\u0323i dung file H.png -> C:\Users\Admin\Downloads\output folder\nô\u0323i dung file H.webp
+2024-11-25 15:46:12,691:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\nô\u0323i dung file H.webp
+2024-11-25 15:46:12,704:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 15:46:12,704:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 15:46:12,704:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 15:46:12,942:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 1a.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 1a.webp
+2024-11-25 15:46:12,949:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 1a.webp
+2024-11-25 15:46:12,961:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 15:46:12,961:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 15:46:12,961:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 15:46:13,119:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 1b.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 1b.webp
+2024-11-25 15:46:13,119:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 1b.webp
+2024-11-25 15:46:13,131:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 15:46:13,131:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 15:46:13,131:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 15:46:13,270:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 2.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 2.webp
+2024-11-25 15:46:13,273:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 2.webp
+2024-11-25 15:46:13,282:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 15:46:13,282:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 15:46:13,282:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 15:46:13,751:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 3.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 3.webp
+2024-11-25 15:46:13,751:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 3.webp
+2024-11-25 15:46:13,765:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 15:46:13,765:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 15:46:13,765:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 15:46:13,872:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 4.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 4.webp
+2024-11-25 15:46:13,872:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 4.webp
+2024-11-25 15:46:13,890:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 15:46:13,890:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 15:46:13,890:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 15:46:14,086:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 5.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 5.webp
+2024-11-25 15:46:14,089:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 5.webp
+2024-11-25 15:46:14,109:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 15:46:14,110:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 15:46:14,110:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 15:46:14,584:INFO:Converted: C:\Users\Admin\Downloads\input folder\ca\u0300i lê\u0323nh gcc.png -> C:\Users\Admin\Downloads\output folder\ca\u0300i lê\u0323nh gcc.webp
+2024-11-25 15:46:14,585:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\ca\u0300i lê\u0323nh gcc.webp
+2024-11-25 15:46:14,591:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 15:46:14,599:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 15:46:14,599:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 15:46:15,000:INFO:Converted: C:\Users\Admin\Downloads\input folder\ca\u0300i lê\u0323nh make.png -> C:\Users\Admin\Downloads\output folder\ca\u0300i lê\u0323nh make.webp
+2024-11-25 15:46:15,000:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\ca\u0300i lê\u0323nh make.webp
+2024-11-25 15:59:19,625:ERROR:Error converting C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 9.png: [Errno 13] Permission denied: 'C:\\Users\\Admin\\Downloads\\input folder\\vi\u0301 du\u0323 9.png'
+2024-11-25 15:59:19,638:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 15:59:19,638:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 15:59:19,639:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 15:59:19,872:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 9.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 9.webp
+2024-11-25 15:59:19,881:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 15:59:19,881:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 15:59:19,881:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 15:59:20,110:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 11.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 11.webp
+2024-11-25 15:59:20,111:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 11.webp
+2024-11-25 15:59:20,118:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 15:59:20,118:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 15:59:20,118:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 15:59:20,410:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 12.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 12.webp
+2024-11-25 15:59:20,410:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 12.webp
+2024-11-25 15:59:20,421:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 15:59:20,421:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 15:59:20,421:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 15:59:20,887:INFO:Converted: C:\Users\Admin\Downloads\input folder\ca\u0300i lê\u0323nh tree.png -> C:\Users\Admin\Downloads\output folder\ca\u0300i lê\u0323nh tree.webp
+2024-11-25 15:59:20,888:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\ca\u0300i lê\u0323nh tree.webp
+2024-11-25 15:59:20,900:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 15:59:20,900:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 15:59:20,900:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 15:59:21,187:INFO:Converted: C:\Users\Admin\Downloads\input folder\chi chu\u0301 vi\u0301 du\u0323 1.png -> C:\Users\Admin\Downloads\output folder\chi chu\u0301 vi\u0301 du\u0323 1.webp
+2024-11-25 15:59:21,188:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\chi chu\u0301 vi\u0301 du\u0323 1.webp
+2024-11-25 15:59:21,198:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 15:59:21,198:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 15:59:21,198:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 15:59:21,407:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 1.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 1.webp
+2024-11-25 15:59:21,408:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 1.webp
+2024-11-25 15:59:21,418:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 15:59:21,418:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 15:59:21,418:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 15:59:21,643:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 2.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 2.webp
+2024-11-25 15:59:21,646:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 2.webp
+2024-11-25 15:59:21,658:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 15:59:21,658:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 15:59:21,658:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 15:59:21,743:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 3.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 3.webp
+2024-11-25 15:59:21,743:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 3.webp
+2024-11-25 15:59:21,757:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 15:59:21,757:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 15:59:21,757:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 15:59:21,994:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 4.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 4.webp
+2024-11-25 15:59:21,994:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 4.webp
+2024-11-25 15:59:22,008:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 15:59:22,008:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 15:59:22,008:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 15:59:22,251:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 5.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 5.webp
+2024-11-25 15:59:22,252:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 5.webp
+2024-11-25 15:59:22,268:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 15:59:22,268:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 15:59:22,269:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 15:59:22,508:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 6.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 6.webp
+2024-11-25 15:59:22,508:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 6.webp
+2024-11-25 15:59:22,520:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 15:59:22,520:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 15:59:22,520:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 15:59:22,699:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 7.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 7.webp
+2024-11-25 15:59:22,699:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 7.webp
+2024-11-25 15:59:22,710:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 15:59:22,710:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 15:59:22,710:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 15:59:22,969:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 8.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 8.webp
+2024-11-25 15:59:22,969:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 8.webp
+2024-11-25 15:59:22,978:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 15:59:22,978:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 15:59:22,978:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 15:59:23,220:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 10.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 10.webp
+2024-11-25 15:59:23,220:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 10.webp
+2024-11-25 16:13:38,050:ERROR:Error converting C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 2.png: [Errno 13] Permission denied: 'C:\\Users\\Admin\\Downloads\\input folder\\vi\u0301 du\u0323 2.png'
+2024-11-25 16:13:38,056:ERROR:Error converting C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 2.png: [Errno 13] Permission denied: 'C:\\Users\\Admin\\Downloads\\input folder\\vi\u0301 du\u0323 2.png'
+2024-11-25 16:13:38,059:ERROR:Error converting C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 2.png: [Errno 13] Permission denied: 'C:\\Users\\Admin\\Downloads\\input folder\\vi\u0301 du\u0323 2.png'
+2024-11-25 16:13:38,074:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 16:13:38,074:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 16:13:38,074:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 16:13:38,219:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 2.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 2.webp
+2024-11-25 16:13:38,232:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 16:13:38,234:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 16:13:38,234:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 16:13:38,289:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 3.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 3.webp
+2024-11-25 16:13:38,289:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 3.webp
+2024-11-25 16:13:38,299:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 16:13:38,299:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 16:13:38,299:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 16:13:38,579:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 4.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 4.webp
+2024-11-25 16:13:38,579:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 4.webp
+2024-11-25 16:13:38,591:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 16:13:38,591:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 16:13:38,591:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 16:13:38,659:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 5a.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 5a.webp
+2024-11-25 16:13:38,659:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 5a.webp
+2024-11-25 16:13:38,671:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 16:13:38,671:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 16:13:38,671:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 16:13:38,737:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 5b.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 5b.webp
+2024-11-25 16:13:38,739:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 5b.webp
+2024-11-25 16:13:38,753:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 16:13:38,753:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 16:13:38,753:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 16:13:38,829:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 7.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 7.webp
+2024-11-25 16:13:38,829:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 7.webp
+2024-11-25 16:13:38,834:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 16:13:38,834:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 16:13:38,834:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 16:13:39,003:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 8.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 8.webp
+2024-11-25 16:13:39,003:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 8.webp
+2024-11-25 16:13:39,015:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 16:13:39,019:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 16:13:39,019:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 16:13:39,136:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 a1.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 a1.webp
+2024-11-25 16:13:39,138:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 a1.webp
+2024-11-25 16:13:39,149:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 16:13:39,149:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 16:13:39,149:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 16:13:39,271:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 a2.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 a2.webp
+2024-11-25 16:13:39,271:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 a2.webp
+2024-11-25 16:13:39,283:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 16:13:39,283:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 16:13:39,283:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 16:13:39,390:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 a3.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 a3.webp
+2024-11-25 16:13:39,390:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 a3.webp
+2024-11-25 16:13:39,401:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 16:13:39,401:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 16:13:39,401:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 16:13:39,505:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 a4.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 a4.webp
+2024-11-25 16:13:39,505:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 a4.webp
+2024-11-25 16:13:39,522:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 16:13:39,522:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 16:13:39,522:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 16:13:39,554:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 0a.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 0a.webp
+2024-11-25 16:13:39,554:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 0a.webp
+2024-11-25 16:13:39,562:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 16:13:39,562:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 16:13:39,568:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 16:13:39,639:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 0b.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 0b.webp
+2024-11-25 16:13:39,639:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 0b.webp
+2024-11-25 16:13:39,653:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 16:13:39,653:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 16:13:39,653:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 16:13:39,767:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 1a.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 1a.webp
+2024-11-25 16:13:39,768:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 1a.webp
+2024-11-25 16:13:39,779:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 16:13:39,779:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 16:13:39,779:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 16:13:39,899:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 1b.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 1b.webp
+2024-11-25 16:13:39,899:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 1b.webp
+2024-11-25 16:14:03,459:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 a2.webp
+2024-11-25 16:14:03,479:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 a4.webp
+2024-11-25 16:14:03,492:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 a3.webp
+2024-11-25 16:14:03,519:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 4.webp
+2024-11-25 16:14:03,533:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 3.webp
+2024-11-25 16:14:03,550:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 1b.webp
+2024-11-25 16:14:03,565:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 1a.webp
+2024-11-25 16:14:03,585:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 0b.webp
+2024-11-25 16:14:03,599:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 0a.webp
+2024-11-25 16:14:03,623:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 2.webp
+2024-11-25 16:14:03,644:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 5a.webp
+2024-11-25 16:14:03,668:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 a1.webp
+2024-11-25 16:14:03,689:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 7.webp
+2024-11-25 16:14:03,712:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 8.webp
+2024-11-25 16:14:03,729:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 5b.webp
+2024-11-25 16:38:48,444:ERROR:Error converting C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 3.png: [Errno 13] Permission denied: 'C:\\Users\\Admin\\Downloads\\input folder\\vi\u0301 du\u0323 3.png'
+2024-11-25 16:38:48,466:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 16:38:48,466:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 16:38:48,466:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 16:38:48,528:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 3.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 3.webp
+2024-11-25 16:38:48,541:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 16:38:48,541:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 16:38:48,541:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 16:38:48,613:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 4.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 4.webp
+2024-11-25 16:38:48,613:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 4.webp
+2024-11-25 16:38:48,625:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 16:38:48,625:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 16:38:48,625:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 16:38:48,719:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 5.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 5.webp
+2024-11-25 16:38:48,727:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 5.webp
+2024-11-25 16:38:48,739:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 16:38:48,739:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 16:38:48,739:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 16:38:48,792:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 6.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 6.webp
+2024-11-25 16:38:48,792:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 6.webp
+2024-11-25 16:38:48,800:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 16:38:48,808:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 16:38:48,808:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 16:38:48,881:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 7.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 7.webp
+2024-11-25 16:38:48,882:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 7.webp
+2024-11-25 16:38:48,889:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 16:38:48,889:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 16:38:48,889:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 16:38:48,959:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 8.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 8.webp
+2024-11-25 16:38:48,959:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 8.webp
+2024-11-25 16:38:48,972:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 16:38:48,972:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 16:38:48,972:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 16:38:49,039:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 9.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 9.webp
+2024-11-25 16:38:49,039:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 9.webp
+2024-11-25 16:38:49,051:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 16:38:49,051:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 16:38:49,051:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 16:38:49,121:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 10.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 10.webp
+2024-11-25 16:38:49,121:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 10.webp
+2024-11-25 16:38:49,145:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 16:38:49,145:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 16:38:49,145:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 16:38:49,211:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 11.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 11.webp
+2024-11-25 16:38:49,211:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 11.webp
+2024-11-25 16:38:49,221:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 16:38:49,221:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 16:38:49,221:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 16:38:49,309:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 12.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 12.webp
+2024-11-25 16:38:49,309:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 12.webp
+2024-11-25 16:38:49,319:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 16:38:49,319:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 16:38:49,319:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 16:38:49,383:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 13.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 13.webp
+2024-11-25 16:38:49,383:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 13.webp
+2024-11-25 16:38:49,398:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 16:38:49,398:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 16:38:49,398:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 16:38:49,455:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 14.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 14.webp
+2024-11-25 16:38:49,455:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 14.webp
+2024-11-25 16:38:49,469:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 16:38:49,469:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 16:38:49,469:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 16:38:49,564:INFO:Converted: C:\Users\Admin\Downloads\input folder\hi\u0300nh 1.png -> C:\Users\Admin\Downloads\output folder\hi\u0300nh 1.webp
+2024-11-25 16:38:49,564:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\hi\u0300nh 1.webp
+2024-11-25 16:38:49,579:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 16:38:49,579:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 16:38:49,579:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 16:38:49,639:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 1.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 1.webp
+2024-11-25 16:38:49,639:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 1.webp
+2024-11-25 16:38:49,655:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 16:38:49,655:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 16:38:49,655:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 16:38:49,712:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 2.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 2.webp
+2024-11-25 16:38:49,712:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 2.webp
+2024-11-25 16:51:37,765:ERROR:Error converting C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 6.png: [Errno 13] Permission denied: 'C:\\Users\\Admin\\Downloads\\input folder\\vi\u0301 du\u0323 6.png'
+2024-11-25 16:51:37,768:ERROR:Error converting C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 6.png: [Errno 13] Permission denied: 'C:\\Users\\Admin\\Downloads\\input folder\\vi\u0301 du\u0323 6.png'
+2024-11-25 16:51:37,776:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 16:51:37,776:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 16:51:37,776:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 16:51:38,087:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 6.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 6.webp
+2024-11-25 16:51:38,105:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 16:51:38,105:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 16:51:38,105:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 16:51:38,176:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 7.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 7.webp
+2024-11-25 16:51:38,176:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 7.webp
+2024-11-25 16:51:38,195:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 16:51:38,195:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 16:51:38,195:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 16:51:38,665:INFO:Converted: C:\Users\Admin\Downloads\input folder\thông tin tr\u01a1\u0323 giu\u0301p.png -> C:\Users\Admin\Downloads\output folder\thông tin tr\u01a1\u0323 giu\u0301p.webp
+2024-11-25 16:51:38,668:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\thông tin tr\u01a1\u0323 giu\u0301p.webp
+2024-11-25 16:51:38,676:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 16:51:38,676:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 16:51:38,676:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 16:51:39,093:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 1.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 1.webp
+2024-11-25 16:51:39,093:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 1.webp
+2024-11-25 16:51:39,108:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 16:51:39,108:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 16:51:39,108:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 16:51:39,405:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 2.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 2.webp
+2024-11-25 16:51:39,407:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 2.webp
+2024-11-25 16:51:39,419:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 16:51:39,419:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 16:51:39,419:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 16:51:39,492:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 3.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 3.webp
+2024-11-25 16:51:39,493:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 3.webp
+2024-11-25 16:51:39,503:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 16:51:39,503:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 16:51:39,503:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 16:51:39,653:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 4.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 4.webp
+2024-11-25 16:51:39,654:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 4.webp
+2024-11-25 16:51:39,665:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 16:51:39,665:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 16:51:39,665:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 16:51:40,074:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 8.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 8.webp
+2024-11-25 16:51:40,074:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 8.webp
+2024-11-25 16:51:40,088:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 16:51:40,088:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 16:51:40,088:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 16:51:40,313:INFO:Converted: C:\Users\Admin\Downloads\input folder\code vi\u0301 du\u0323 4.png -> C:\Users\Admin\Downloads\output folder\code vi\u0301 du\u0323 4.webp
+2024-11-25 16:51:40,314:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\code vi\u0301 du\u0323 4.webp
+2024-11-25 16:51:40,325:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 16:51:40,325:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 16:51:40,325:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 16:51:40,496:INFO:Converted: C:\Users\Admin\Downloads\input folder\\u0111oa\u0323n code script.png -> C:\Users\Admin\Downloads\output folder\\u0111oa\u0323n code script.webp
+2024-11-25 16:51:40,503:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\\u0111oa\u0323n code script.webp
+2024-11-25 16:51:40,515:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 16:51:40,515:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 16:51:40,515:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 16:51:40,984:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 5a.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 5a.webp
+2024-11-25 16:51:40,985:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 5a.webp
+2024-11-25 16:51:40,993:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 16:51:40,993:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 16:51:40,993:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 16:51:41,034:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 5b.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 5b.webp
+2024-11-25 16:51:41,034:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 5b.webp
+2024-11-25 17:15:26,395:ERROR:Error converting C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 3.png: [Errno 13] Permission denied: 'C:\\Users\\Admin\\Downloads\\input folder\\vi\u0301 du\u0323 3.png'
+2024-11-25 17:15:26,395:ERROR:Error converting C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 3.png: [Errno 13] Permission denied: 'C:\\Users\\Admin\\Downloads\\input folder\\vi\u0301 du\u0323 3.png'
+2024-11-25 17:15:26,395:ERROR:Error converting C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 3.png: [Errno 13] Permission denied: 'C:\\Users\\Admin\\Downloads\\input folder\\vi\u0301 du\u0323 3.png'
+2024-11-25 17:15:26,404:ERROR:Error converting C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 4.png: [Errno 13] Permission denied: 'C:\\Users\\Admin\\Downloads\\input folder\\vi\u0301 du\u0323 4.png'
+2024-11-25 17:15:26,404:ERROR:Error converting C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 4.png: [Errno 13] Permission denied: 'C:\\Users\\Admin\\Downloads\\input folder\\vi\u0301 du\u0323 4.png'
+2024-11-25 17:15:26,404:ERROR:Error converting C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 4.png: [Errno 13] Permission denied: 'C:\\Users\\Admin\\Downloads\\input folder\\vi\u0301 du\u0323 4.png'
+2024-11-25 17:15:26,423:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 17:15:26,423:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 17:15:26,423:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 17:15:26,782:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 4.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 4.webp
+2024-11-25 17:15:26,796:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 17:15:26,796:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 17:15:26,796:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 17:15:27,062:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 5.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 5.webp
+2024-11-25 17:15:27,062:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 5.webp
+2024-11-25 17:15:27,076:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 17:15:27,076:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 17:15:27,076:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 17:15:27,251:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 6.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 6.webp
+2024-11-25 17:15:27,252:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 6.webp
+2024-11-25 17:15:27,263:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 17:15:27,263:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 17:15:27,263:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 17:15:27,386:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 7.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 7.webp
+2024-11-25 17:15:27,386:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 7.webp
+2024-11-25 17:15:27,404:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 17:15:27,404:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 17:15:27,404:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 17:15:27,542:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 1.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 1.webp
+2024-11-25 17:15:27,542:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 1.webp
+2024-11-25 17:15:27,572:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 17:15:27,572:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 17:15:27,572:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 17:15:27,818:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 2.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 2.webp
+2024-11-25 17:15:27,819:INFO:Skipped (already exists): C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 2.webp
+2024-11-25 17:30:53,203:ERROR:Error converting C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 3.png: [Errno 13] Permission denied: 'C:\\Users\\Admin\\Downloads\\input folder\\vi\u0301 du\u0323 3.png'
+2024-11-25 17:30:53,203:ERROR:Error converting C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 3.png: [Errno 13] Permission denied: 'C:\\Users\\Admin\\Downloads\\input folder\\vi\u0301 du\u0323 3.png'
+2024-11-25 17:30:53,225:DEBUG:STREAM b'IHDR' 16 13
+2024-11-25 17:30:53,225:DEBUG:STREAM b'pHYs' 41 9
+2024-11-25 17:30:53,225:DEBUG:STREAM b'IDAT' 62 8192
+2024-11-25 17:30:53,730:INFO:Converted: C:\Users\Admin\Downloads\input folder\vi\u0301 du\u0323 3.png -> C:\Users\Admin\Downloads\output folder\vi\u0301 du\u0323 3.webp

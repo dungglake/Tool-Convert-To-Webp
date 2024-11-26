@@ -1,0 +1,194 @@
+2024-10-03 09:54:08,124:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 09:54:08,128:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 09:54:08,128:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder/PNG_transparency_demonstration_1.png', wd=1, mask=IN_OPEN, cookie=0, name='PNG_transparency_demonstration_1.png'>
+2024-10-03 09:54:08,129:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder/PNG_transparency_demonstration_1.png', wd=1, mask=IN_CLOSE_NOWRITE, cookie=0, name='PNG_transparency_demonstration_1.png'>
+2024-10-03 09:54:08,129:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 09:54:08,714:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 09:54:11,242:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 09:54:11,244:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 09:54:11,245:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder/PNG_transparency_demonstration_1.png', wd=1, mask=IN_OPEN, cookie=0, name='PNG_transparency_demonstration_1.png'>
+2024-10-03 09:54:11,245:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder/PNG_transparency_demonstration_1.png', wd=1, mask=IN_CLOSE_NOWRITE, cookie=0, name='PNG_transparency_demonstration_1.png'>
+2024-10-03 09:54:11,246:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 09:54:12,071:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 10:01:15,411:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 10:01:15,415:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 10:01:15,415:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder/PNG_transparency_demonstration_1.png', wd=1, mask=IN_OPEN, cookie=0, name='PNG_transparency_demonstration_1.png'>
+2024-10-03 10:01:15,415:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder/PNG_transparency_demonstration_1.png', wd=1, mask=IN_CLOSE_NOWRITE, cookie=0, name='PNG_transparency_demonstration_1.png'>
+2024-10-03 10:01:15,416:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 10:01:18,346:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder/PNG_transparency_demonstration_1.png', wd=1, mask=IN_MOVED_FROM, cookie=6851, name='PNG_transparency_demonstration_1.png'>
+2024-10-03 10:01:19,386:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 10:01:19,390:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 10:01:19,391:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 10:01:25,784:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 10:01:25,788:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 10:01:25,792:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 10:01:39,490:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 10:01:39,492:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 10:01:39,494:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 10:01:39,533:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 10:01:39,533:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 10:01:39,541:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 10:01:41,594:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 10:01:41,596:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 10:01:41,597:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 10:01:43,131:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 10:01:43,152:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder/color-wing-png-isolated-transparent-background_1034016-9965.avif', wd=1, mask=IN_CREATE, cookie=0, name='color-wing-png-isolated-transparent-background_1034016-9965.avif'>
+2024-10-03 10:01:43,152:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder/color-wing-png-isolated-transparent-background_1034016-9965.avif', wd=1, mask=IN_OPEN, cookie=0, name='color-wing-png-isolated-transparent-background_1034016-9965.avif'>
+2024-10-03 10:01:43,153:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder/color-wing-png-isolated-transparent-background_1034016-9965.avif', wd=1, mask=IN_MODIFY, cookie=0, name='color-wing-png-isolated-transparent-background_1034016-9965.avif'>
+2024-10-03 10:01:43,153:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder/color-wing-png-isolated-transparent-background_1034016-9965.avif', wd=1, mask=IN_CLOSE_WRITE, cookie=0, name='color-wing-png-isolated-transparent-background_1034016-9965.avif'>
+2024-10-03 10:01:43,162:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder/color-wing-png-isolated-transparent-background_1034016-9965.avif', wd=1, mask=IN_ATTRIB, cookie=0, name='color-wing-png-isolated-transparent-background_1034016-9965.avif'>
+2024-10-03 10:01:46,633:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder/color-wing-png-isolated-transparent-background_1034016-9965.avif', wd=1, mask=IN_CLOSE_NOWRITE, cookie=0, name='color-wing-png-isolated-transparent-background_1034016-9965.avif'>
+2024-10-03 10:01:46,651:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder/color-wing-png-isolated-transparent-background_1034016-9965.avif', wd=1, mask=IN_OPEN, cookie=0, name='color-wing-png-isolated-transparent-background_1034016-9965.avif'>
+2024-10-03 10:01:46,706:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder/color-wing-png-isolated-transparent-background_1034016-9965.avif', wd=1, mask=IN_CLOSE_NOWRITE, cookie=0, name='color-wing-png-isolated-transparent-background_1034016-9965.avif'>
+2024-10-03 10:01:48,557:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 10:01:48,560:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 10:01:48,560:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 10:01:50,545:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 10:01:50,548:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 10:01:50,549:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 10:01:51,098:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 10:02:07,118:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 10:02:07,122:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 10:02:07,123:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 10:02:07,617:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 10:02:10,004:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 10:02:10,007:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 10:02:10,008:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 10:02:10,879:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 10:02:26,618:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 10:02:26,623:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 10:02:26,624:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 10:02:28,460:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 10:03:07,674:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 10:03:07,680:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 10:03:07,685:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 10:03:08,435:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 10:03:16,807:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 10:03:16,811:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 10:03:16,812:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 10:03:17,467:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 10:03:21,899:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 10:03:21,903:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 10:03:21,904:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 10:03:22,727:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 10:04:24,154:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 10:04:24,159:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 10:04:24,166:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 10:04:25,112:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 10:04:29,716:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 10:04:29,721:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 10:04:29,723:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 10:04:30,367:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 10:04:32,020:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 10:04:32,025:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 10:04:32,031:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 10:04:32,533:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 10:04:34,086:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 10:04:34,093:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 10:04:34,099:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 10:04:34,546:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 10:06:56,928:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 10:06:56,938:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 10:06:56,938:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder/color-wing-png-isolated-transparent-background_1034016-9965.png', wd=1, mask=IN_OPEN, cookie=0, name='color-wing-png-isolated-transparent-background_1034016-9965.png'>
+2024-10-03 10:06:56,938:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder/color-wing-png-isolated-transparent-background_1034016-9965.png', wd=1, mask=IN_CLOSE_NOWRITE, cookie=0, name='color-wing-png-isolated-transparent-background_1034016-9965.png'>
+2024-10-03 10:06:56,939:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 10:06:57,444:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 10:06:59,319:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 10:06:59,333:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 10:06:59,333:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder/color-wing-png-isolated-transparent-background_1034016-9965.png', wd=1, mask=IN_OPEN, cookie=0, name='color-wing-png-isolated-transparent-background_1034016-9965.png'>
+2024-10-03 10:06:59,333:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder/color-wing-png-isolated-transparent-background_1034016-9965.png', wd=1, mask=IN_CLOSE_NOWRITE, cookie=0, name='color-wing-png-isolated-transparent-background_1034016-9965.png'>
+2024-10-03 10:06:59,334:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 10:06:59,897:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 10:07:05,135:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 10:07:05,135:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 10:07:05,137:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 10:07:05,138:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 10:07:05,193:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 10:07:05,193:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 10:07:05,202:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder/color-wing-png-isolated-transparent-background_1034016-9965.png', wd=1, mask=IN_OPEN, cookie=0, name='color-wing-png-isolated-transparent-background_1034016-9965.png'>
+2024-10-03 10:07:05,202:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder/color-wing-png-isolated-transparent-background_1034016-9965.png', wd=1, mask=IN_CLOSE_NOWRITE, cookie=0, name='color-wing-png-isolated-transparent-background_1034016-9965.png'>
+2024-10-03 10:07:05,244:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 10:07:05,245:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 10:07:07,209:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 10:07:07,212:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 10:07:07,212:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder/color-wing-png-isolated-transparent-background_1034016-9965.png', wd=1, mask=IN_OPEN, cookie=0, name='color-wing-png-isolated-transparent-background_1034016-9965.png'>
+2024-10-03 10:07:07,212:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder/color-wing-png-isolated-transparent-background_1034016-9965.png', wd=1, mask=IN_CLOSE_NOWRITE, cookie=0, name='color-wing-png-isolated-transparent-background_1034016-9965.png'>
+2024-10-03 10:07:07,213:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder/color-wing-png-isolated-transparent-background_1034016-9965.png', wd=1, mask=IN_OPEN, cookie=0, name='color-wing-png-isolated-transparent-background_1034016-9965.png'>
+2024-10-03 10:07:07,213:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder/color-wing-png-isolated-transparent-background_1034016-9965.png', wd=1, mask=IN_CLOSE_NOWRITE, cookie=0, name='color-wing-png-isolated-transparent-background_1034016-9965.png'>
+2024-10-03 10:07:07,214:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 10:07:10,121:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 10:07:10,137:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder/Untitled.jpeg', wd=1, mask=IN_CREATE, cookie=0, name='Untitled.jpeg'>
+2024-10-03 10:07:10,137:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder/Untitled.jpeg', wd=1, mask=IN_OPEN, cookie=0, name='Untitled.jpeg'>
+2024-10-03 10:07:10,138:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder/Untitled.jpeg', wd=1, mask=IN_OPEN, cookie=0, name='Untitled.jpeg'>
+2024-10-03 10:07:10,142:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder/Untitled.jpeg', wd=1, mask=IN_MODIFY, cookie=0, name='Untitled.jpeg'>
+2024-10-03 10:07:10,143:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder/Untitled.jpeg', wd=1, mask=IN_CLOSE_WRITE, cookie=0, name='Untitled.jpeg'>
+2024-10-03 10:07:10,148:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder/Untitled.jpeg', wd=1, mask=IN_ATTRIB, cookie=0, name='Untitled.jpeg'>
+2024-10-03 10:07:10,156:DEBUG:Importing BlpImagePlugin
+2024-10-03 10:07:10,159:DEBUG:Importing BmpImagePlugin
+2024-10-03 10:07:10,159:DEBUG:Importing BufrStubImagePlugin
+2024-10-03 10:07:10,159:DEBUG:Importing CurImagePlugin
+2024-10-03 10:07:10,160:DEBUG:Importing DcxImagePlugin
+2024-10-03 10:07:10,161:DEBUG:Importing DdsImagePlugin
+2024-10-03 10:07:10,168:DEBUG:Importing EpsImagePlugin
+2024-10-03 10:07:10,170:DEBUG:Importing FitsImagePlugin
+2024-10-03 10:07:10,173:DEBUG:Importing FliImagePlugin
+2024-10-03 10:07:10,173:DEBUG:Importing FpxImagePlugin
+2024-10-03 10:07:10,174:DEBUG:Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-10-03 10:07:10,174:DEBUG:Importing FtexImagePlugin
+2024-10-03 10:07:10,175:DEBUG:Importing GbrImagePlugin
+2024-10-03 10:07:10,175:DEBUG:Importing GifImagePlugin
+2024-10-03 10:07:10,175:DEBUG:Importing GribStubImagePlugin
+2024-10-03 10:07:10,176:DEBUG:Importing Hdf5StubImagePlugin
+2024-10-03 10:07:10,176:DEBUG:Importing IcnsImagePlugin
+2024-10-03 10:07:10,178:DEBUG:Importing IcoImagePlugin
+2024-10-03 10:07:10,179:DEBUG:Importing ImImagePlugin
+2024-10-03 10:07:10,180:DEBUG:Importing ImtImagePlugin
+2024-10-03 10:07:10,180:DEBUG:Importing IptcImagePlugin
+2024-10-03 10:07:10,181:DEBUG:Importing JpegImagePlugin
+2024-10-03 10:07:10,181:DEBUG:Importing Jpeg2KImagePlugin
+2024-10-03 10:07:10,181:DEBUG:Importing McIdasImagePlugin
+2024-10-03 10:07:10,181:DEBUG:Importing MicImagePlugin
+2024-10-03 10:07:10,182:DEBUG:Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-10-03 10:07:10,182:DEBUG:Importing MpegImagePlugin
+2024-10-03 10:07:10,183:DEBUG:Importing MpoImagePlugin
+2024-10-03 10:07:10,191:DEBUG:Importing MspImagePlugin
+2024-10-03 10:07:10,192:DEBUG:Importing PalmImagePlugin
+2024-10-03 10:07:10,193:DEBUG:Importing PcdImagePlugin
+2024-10-03 10:07:10,193:DEBUG:Importing PcxImagePlugin
+2024-10-03 10:07:10,193:DEBUG:Importing PdfImagePlugin
+2024-10-03 10:07:10,202:DEBUG:Importing PixarImagePlugin
+2024-10-03 10:07:10,203:DEBUG:Importing PngImagePlugin
+2024-10-03 10:07:10,203:DEBUG:Importing PpmImagePlugin
+2024-10-03 10:07:10,203:DEBUG:Importing PsdImagePlugin
+2024-10-03 10:07:10,204:DEBUG:Importing QoiImagePlugin
+2024-10-03 10:07:10,205:DEBUG:Importing SgiImagePlugin
+2024-10-03 10:07:10,206:DEBUG:Importing SpiderImagePlugin
+2024-10-03 10:07:10,207:DEBUG:Importing SunImagePlugin
+2024-10-03 10:07:10,207:DEBUG:Importing TgaImagePlugin
+2024-10-03 10:07:10,207:DEBUG:Importing TiffImagePlugin
+2024-10-03 10:07:10,207:DEBUG:Importing WebPImagePlugin
+2024-10-03 10:07:10,208:DEBUG:Importing WmfImagePlugin
+2024-10-03 10:07:10,208:DEBUG:Importing XbmImagePlugin
+2024-10-03 10:07:10,209:DEBUG:Importing XpmImagePlugin
+2024-10-03 10:07:10,209:DEBUG:Importing XVThumbImagePlugin
+2024-10-03 10:07:10,210:ERROR:Error converting /home/dung/Downloads/input_folder/Untitled.jpeg: cannot identify image file '/home/dung/Downloads/input_folder/Untitled.jpeg'
+2024-10-03 10:07:10,210:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder/Untitled.jpeg', wd=1, mask=IN_CLOSE_NOWRITE, cookie=0, name='Untitled.jpeg'>
+2024-10-03 10:07:10,211:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder/Untitled.jpeg', wd=1, mask=IN_OPEN, cookie=0, name='Untitled.jpeg'>
+2024-10-03 10:07:10,212:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder/Untitled.jpeg', wd=1, mask=IN_CLOSE_NOWRITE, cookie=0, name='Untitled.jpeg'>
+2024-10-03 10:07:10,219:INFO:Converted: /home/dung/Downloads/input_folder/Untitled.jpeg -> /home/dung/Downloads/output_folder/Untitled.webp
+2024-10-03 10:07:10,219:INFO:Skipped (already exists): /home/dung/Downloads/output_folder/Untitled.webp
+2024-10-03 10:07:21,746:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 10:07:21,750:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 10:07:21,752:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder/color-wing-png-isolated-transparent-background_1034016-9965.png', wd=1, mask=IN_OPEN, cookie=0, name='color-wing-png-isolated-transparent-background_1034016-9965.png'>
+2024-10-03 10:07:21,752:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder/color-wing-png-isolated-transparent-background_1034016-9965.png', wd=1, mask=IN_CLOSE_NOWRITE, cookie=0, name='color-wing-png-isolated-transparent-background_1034016-9965.png'>
+2024-10-03 10:07:21,753:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 10:07:21,889:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder/Untitled.jpeg', wd=1, mask=IN_CLOSE_NOWRITE, cookie=0, name='Untitled.jpeg'>
+2024-10-03 10:07:21,895:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder/Untitled.jpeg', wd=1, mask=IN_OPEN, cookie=0, name='Untitled.jpeg'>
+2024-10-03 10:07:21,897:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder/Untitled.jpeg', wd=1, mask=IN_CLOSE_NOWRITE, cookie=0, name='Untitled.jpeg'>
+2024-10-03 10:07:22,866:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 10:09:03,349:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 10:09:03,355:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-10-03 10:09:03,360:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder/color-wing-png-isolated-transparent-background_1034016-9965.png', wd=1, mask=IN_OPEN, cookie=0, name='color-wing-png-isolated-transparent-background_1034016-9965.png'>
+2024-10-03 10:09:03,361:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder/color-wing-png-isolated-transparent-background_1034016-9965.png', wd=1, mask=IN_CLOSE_NOWRITE, cookie=0, name='color-wing-png-isolated-transparent-background_1034016-9965.png'>
+2024-10-03 10:09:03,362:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
+2024-10-03 10:09:05,032:DEBUG:in-event <InotifyEvent: src_path=b'/home/dung/Downloads/input_folder', wd=1, mask=IN_CLOSE_NOWRITE|IN_ISDIR, cookie=0, name=''>
